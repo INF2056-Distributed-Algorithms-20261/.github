@@ -6,10 +6,10 @@ This organization contains the repos used by students to simulate UAV movement u
 Por [@joaopxf30](https://github.com/joaopxf30)
 
 ### G-station
-- G-Station na posição (0, 0, 0)
+- G-Station na posição (250, -346.41, 0) [fechar o triângulo equilátero com os sensores]
 
 ### UAVs
-- 5 UAVs saindo de (0, 0, 0)
+- 5 UAVs saindo de (250, -346.41, 0)
 - UAVs voam a 15m do chão
 - UAVs voam a 3m/s
 - Taxa de caimento da bateria do UAV de 0.05/m
@@ -20,4 +20,4 @@ Por [@joaopxf30](https://github.com/joaopxf30)
 - Taxa de fornecimento de dados: 1 entrega a cada 4s
 
 ### Charging
-- E-Station na posição (225, 389.71, 0) [fechar o triângulo equilátero]
+- E-Station na posição (250, 346.41, 0) [fechar o triângulo equilátero com os sensores]
